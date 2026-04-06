@@ -1,4 +1,4 @@
-# Схема базы данных транспортных средств
+# Схема базы данных автомобильных гонок
 
 ![car-racing-db-diagram](../imgs/car-racing-db-diagram.png)
 
